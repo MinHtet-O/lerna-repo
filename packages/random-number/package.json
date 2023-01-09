@@ -1,5 +1,5 @@
 {
-  "name": "@MinHtet-O/random-number",
+  "name": "@minhtetoo/random-number",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Min Htet <minhtetoo.dev@gmail.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/MinHtet-O/lerna-repo/issues"
   },
-  "gitHead": "ef1ada40943f1f0c6e97034745bfaeef75bb0c6e"
+  "gitHead": "393a7cf660c61c0df7eaeff3ab26f3725008c4a9"
 }
