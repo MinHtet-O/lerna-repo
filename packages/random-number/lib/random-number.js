@@ -3,7 +3,7 @@
 // 1
 function randomNumber(min, max) {
   const num = Math.floor(Math.random() * (max - min) + min);
-  return num;
+  return num+1;
 }
 
 // 2
