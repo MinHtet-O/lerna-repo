@@ -1,0 +1,29 @@
+{
+  "name": "@MinHtet-O/random-number",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Min Htet <minhtetoo.dev@gmail.com>",
+  "homepage": "https://github.com/MinHtet-O/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/random-number.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinHtet-O/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/random-number.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/MinHtet-O/lerna-repo/issues"
+  }
+}
